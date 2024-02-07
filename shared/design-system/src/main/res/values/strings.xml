@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BrewDog</string>
+    <string name="unit_grams">g</string>
+    <string name="unit_kilograms">kg</string>
+    <string name="details_yeast_title">Yeast</string>
+    <string name="details_hops_title">Hops</string>
+    <string name="details_malt_title">Malt</string>
+    <string name="details_ingredients_title">Ingredients</string>
+    <string name="error_try_again">Try again</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_timeout">Request timed out</string>
+    <string name="error_generic">Something went wrong</string>
+</resources>

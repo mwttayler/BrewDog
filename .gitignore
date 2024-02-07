@@ -1,0 +1,18 @@
+# Gradle directory
+.gradle
+/build
+# IntelliJ files
+/.idea/workspace.xml
+/.idea/migrations.xml
+/.idea/gradle.xml
+/.idea/kotlinc.xml
+/.idea/navEditor.xml
+/.idea/compiler.xml
+/.idea/deploymentTargetDropDown.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/.name
+# Ktlint
+/features/build/**
+/features/**/build/**
+/shared/build/**
